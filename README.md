@@ -1,4 +1,4 @@
 jdwtest
 =======
 
-demonstarte basic git functionality
+demonstrate basic git functionality
